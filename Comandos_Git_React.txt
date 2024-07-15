@@ -1,0 +1,24 @@
+-----------------------------------------------------------------
+Comandos para colocar dado pela primeira vez
+
+git init 
+git add . 
+git commit -m " . "
+git branch -M main 
+git remote add origin (junto com o link do repositório) 
+git push -u origin main
+-----------------------------------------------------------------
+Atualizar os dados de um repositorio já existente
+
+git status
+git add .
+git commit -m  " . "
+git push origin main
+-----------------------------------------------------------------
+Comandos React
+
+npx create-react-app reactRouter
+npm start
+npm run build
+
+npm install react-router-dom
