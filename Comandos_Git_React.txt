@@ -15,6 +15,10 @@ git add .
 git commit -m  " . "
 git push origin main
 -----------------------------------------------------------------
+Clonar um repositorio já existente
+git clone <URL-do-repositorio>
+-----------------------------------------------------------------
+
 Comandos React
 
 npx create-react-app nome_projeto
