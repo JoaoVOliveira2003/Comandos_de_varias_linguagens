@@ -30,3 +30,10 @@ npm install react-router-dom
 
 baixar a versão 06:
 npm install react-router-dom@6
+
+-----------------------------------------------------------------
+
+Comandos C#
+na lupa lá em cima
+
+>.NET Novo Projeto ou >.NET New Project
