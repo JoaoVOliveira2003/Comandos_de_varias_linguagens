@@ -37,3 +37,11 @@ Comandos C#
 na lupa lá em cima
 
 >.NET Novo Projeto ou >.NET New Project
+
+-----------------------------------------------------------------
+
+Abrir uma coisa html
+
+abrir com Live Server ou Alt+L Alt+O ao mesmo tempo
+
+-----------------------------------------------------------------
