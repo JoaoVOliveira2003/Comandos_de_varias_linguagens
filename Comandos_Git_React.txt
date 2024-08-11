@@ -45,3 +45,9 @@ Abrir uma coisa html
 abrir com Live Server ou Alt+L Alt+O ao mesmo tempo
 
 -----------------------------------------------------------------
+
+Colocar sites onlines
+
+Netlify
+
+-----------------------------------------------------------------
