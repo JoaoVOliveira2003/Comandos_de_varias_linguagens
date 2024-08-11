@@ -27,6 +27,8 @@ npm run build
 
 baixar algum:
 npm install react-router-dom
+npx tailwindcss init
+
 
 baixar a versão 06:
 npm install react-router-dom@6
