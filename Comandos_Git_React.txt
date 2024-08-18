@@ -34,6 +34,18 @@ baixar a versão 06:
 npm install react-router-dom@6
 
 -----------------------------------------------------------------
+Comandos em Angular(começando a jornada em 17/08/2024)
+
+/*Projeto novo*/
+ng new nome-do-projeto
+
+npm install angular --global
+
+/*Criando projetos */
+
+ng generate component components/nome-seu-componente
+ng g c components/nome-seu-componente
+-----------------------------------------------------------------
 
 Comandos C#
 na lupa lá em cima
