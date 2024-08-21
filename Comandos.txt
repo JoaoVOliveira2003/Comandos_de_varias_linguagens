@@ -65,3 +65,11 @@ Colocar sites onlines
 Netlify
 
 -----------------------------------------------------------------
+3 maneiras)
+Para conseguir baixar algo no HTML/JavaScript
+
+<a href="dado" download="colocarOqueQuerImprimir"><span class = 'btn'>Download</span></a>
+
+window.open(colocarOqueQuerImprimir);
+window.location.href=colocarOqueQuerImprimir;
+-----------------------------------------------------------------
