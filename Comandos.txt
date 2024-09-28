@@ -17,8 +17,20 @@ git push origin main
 -----------------------------------------------------------------
 Clonar um repositorio já existente
 git clone <URL-do-repositorio>
------------------------------------------------------------------
 
+Como fazer para ignorar determinados arquivos ao "uplouda" um 
+arquivo no GIT, simplesmente :
+
+-Crie um arquivo com o nome
+
+.gitignore
+
+-Escreva o nome dos arquivos/pastas que voce n quer que vão ao ar 
+lá dentro
+
+-"uplouda" eles que quem tiver lá sera ignorado
+
+-----------------------------------------------------------------
 Comandos React
 
 npx create-react-app nome_projeto
@@ -34,7 +46,7 @@ baixar a versão 06:
 npm install react-router-dom@6
 
 -----------------------------------------------------------------
-Comandos em Angular(começando a jornada em 17/08/2024)
+Comandos em Angular
 
 /*Projeto novo*/
 ng new nome-do-projeto
@@ -46,24 +58,18 @@ npm install angular --global
 ng generate component components/nome-seu-componente
 ng g c components/nome-seu-componente
 -----------------------------------------------------------------
-
 Comandos C#
 na lupa lá em cima
 
 >.NET Novo Projeto ou >.NET New Project
-
 -----------------------------------------------------------------
-
 Abrir uma coisa html
 
 abrir com Live Server ou Alt+L Alt+O ao mesmo tempo
-
 -----------------------------------------------------------------
-
 Colocar sites onlines
 
 Netlify
-
 -----------------------------------------------------------------
 3 maneiras)
 Para conseguir baixar algo no HTML/JavaScript
