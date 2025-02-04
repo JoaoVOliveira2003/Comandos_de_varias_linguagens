@@ -1,0 +1,13 @@
+-----------------------------------------------------------------
+Comandos em Angular
+
+/*Projeto novo*/
+ng new nome-do-projeto
+
+npm install angular --global
+
+/*Criando projetos */
+
+ng generate component components/nome-seu-componente
+ng g c components/nome-seu-componente
+-----------------------------------------------------------------
