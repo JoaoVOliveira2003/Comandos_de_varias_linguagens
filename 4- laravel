@@ -1,0 +1,12 @@
+-------------------------------------------------------------------
+Criar:
+laravel new nomeProjeto
+
+Rodar server:
+php artisan serve
+-------------------------------------------------------------------
+
+Atraves do composer:
+composer create-project --prefer-dist laravel/laravel cursoLaravel
+
+-------------------------------------------------------------------
