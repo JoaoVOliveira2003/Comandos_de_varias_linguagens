@@ -1,0 +1,33 @@
+-----------------------------------------------------------------
+Comandos para colocar dado pela primeira vez
+
+git init 
+git add . 
+git commit -m " . "
+git branch -M main 
+git remote add origin (junto com o link do repositório) 
+git push -u origin main
+-----------------------------------------------------------------
+Atualizar os dados de um repositorio já existente
+
+git status
+git add .
+git commit -m  " . "
+git push origin main
+-----------------------------------------------------------------
+Clonar um repositorio já existente
+git clone <URL-do-repositorio>
+
+Como fazer para ignorar determinados arquivos ao "uplouda" um 
+arquivo no GIT, simplesmente :
+
+-Crie um arquivo com o nome
+
+.gitignore
+
+-Escreva o nome dos arquivos/pastas que voce n quer que vão ao ar 
+lá dentro
+
+-"uplouda" eles que quem tiver lá sera ignorado
+
+----------------------------------------------------------------
