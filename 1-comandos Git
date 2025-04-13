@@ -10,6 +10,7 @@ git push -u origin main
 -----------------------------------------------------------------
 Atualizar os dados de um repositorio já existente
 
+git push -u origin main
 git status
 git add .
 git commit -m  " . "
