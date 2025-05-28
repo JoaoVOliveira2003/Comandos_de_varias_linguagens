@@ -1,0 +1,20 @@
+No terminal
+
+cd beeware1
+briefcase dev
+-------------------------------------------------
+Preencher os itens abaixo
+
+Formal Name - BeeWare1
+App Name - beeware1
+Bundle - com.example.
+Project Name - Bee Ware 1
+Description - Projeto da aula de Framework
+Author - SEU NOME
+Author’s email - SEU EMAIL
+URL - https://example.com/beeware1)
+License - OTHER
+GUI framework - Toga (BeeWare’s own GUI toolkit)
+-------------------------------------------------
+
+  
