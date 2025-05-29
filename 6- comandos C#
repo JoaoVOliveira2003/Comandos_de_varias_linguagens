@@ -1,0 +1,11 @@
+# Cria um novo projeto do tipo console com o nome especificado
+dotnet new console -n NomeDoProjeto
+
+# Restaura as dependências e pacotes do projeto (útil após clonar um projeto ou alterar o csproj)
+dotnet restore
+
+# Executa o projeto
+dotnet run
+
+# Executa o projeto em looping
+dotnet watch run
