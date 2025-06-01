@@ -1,4 +1,5 @@
-dotnet new mvc -n CrudPessoa  // com view,controller e model
+// com view,controller e model
+dotnet new mvc -n NomeDoProjeto  
 
 dotnet new console -n NomeDoProjeto
 dotnet restore
