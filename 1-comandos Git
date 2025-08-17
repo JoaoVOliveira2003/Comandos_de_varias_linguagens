@@ -16,6 +16,9 @@ git status
 git add .
 git commit -m  " . "
 git push origin main
+
+npm install bootstrap
+
 -----------------------------------------------------------------
 Clonar um repositorio já existente
 git clone <URL-do-repositorio>
