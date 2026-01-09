@@ -2,8 +2,8 @@ COMANDOS ESSENCIAIS DO LARAVEL
 
 1.  Inicialização do Projeto
 
--   laravel new nome
--   composer create-project laravel/laravel nome
+-- composer create-project laravel/laravel nome-do-projeto
+
 
 2.  Servidor Local
 
