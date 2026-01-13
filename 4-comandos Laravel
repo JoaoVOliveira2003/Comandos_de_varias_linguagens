@@ -2,8 +2,9 @@ COMANDOS ESSENCIAIS DO LARAVEL
 
 1.  Inicialização do Projeto
 
--- composer create-project laravel/laravel nome-do-projeto
-
+composer create-project laravel/laravel nome-do-projeto
+php artisan key:generate
+php artisan migrate
 
 2.  Servidor Local
 
