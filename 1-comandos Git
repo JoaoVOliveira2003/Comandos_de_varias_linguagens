@@ -18,28 +18,5 @@ git commit -m  " . "
 git push origin main
 
 ----------------------------------------------------------------
-Para enviar um repositorio laravel
-
-git remote -v
-git checkout -B main
-git remote remove origin
-git remote add origin https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-git commit -m " . "
-git push -u origin main
------------------------------------------------------------------
-Clonar um repositorio já existente
-git clone <URL-do-repositorio>
-
-Como fazer para ignorar determinados arquivos ao "uplouda" um 
-arquivo no GIT, simplesmente :
-
--Crie um arquivo com o nome
-
-.gitignore
-
--Escreva o nome dos arquivos/pastas que voce n quer que vão ao ar 
-lá dentro
-
--"uplouda" eles que quem tiver lá sera ignorado
-
-
+git checkout -b main
+----------------------------------------------------------------
