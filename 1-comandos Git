@@ -19,4 +19,6 @@ git push origin main
 
 ----------------------------------------------------------------
 git checkout -b main
+$ git remote -v
+git remote remove composer|origin
 ----------------------------------------------------------------
