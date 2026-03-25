@@ -1,0 +1,5 @@
+corepack enable
+yarn global add @quasar/cli
+
+yarn create quasar
+quasar dev
