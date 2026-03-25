@@ -1,10 +1,8 @@
-corepack enable
-yarn global add @quasar/cli
+------------------------------------------
+create:
+  yarn create quasar
+------------------------------------------
 
-yarn create quasar
 quasar dev
-
-------------------------------------
-deixar o server de api ligado 
 
 npm run dev
