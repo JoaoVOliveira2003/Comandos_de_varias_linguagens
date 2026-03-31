@@ -4,5 +4,6 @@ create:
 ------------------------------------------
 
 quasar dev
-
 npm run dev
+
+yarn dev
