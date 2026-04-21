@@ -10,4 +10,7 @@ npm install angular --global
 
 ng generate component components/nome-seu-componente
 ng g c components/nome-seu-componente
+
+/*Rodar*/
+ng serve
 -----------------------------------------------------------------
